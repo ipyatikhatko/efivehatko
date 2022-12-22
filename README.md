@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Elijah Pyatikhatko
+- 👋 Hi, my name is Elijah
 - 👀 I’m interested in Web Programming
-- 🌱 I’m currently learning React ⚛️ Typescript
 - 📫 How to reach me elijah.pyatikhatko@gmail.com
 
 <!---
